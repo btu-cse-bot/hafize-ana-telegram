@@ -8,7 +8,7 @@ Telegram üzerinden günlük yemek takibini yapabileceğiniz ve takibini yapmak 
 - `python main.py`
 ### **Komutlar** : 
 
-- /menu | menüsü öğrenilmek istenen gün -**değer girilmezse o günün menüsünü gösterir**
+- /menu | menüsü öğrenilmek istenen gün **değer girilmezse o günün menüsünü gösterir**
    - `/menu 17`
    - `/menu`
 - /abonelik | günlük olarak saat 09:00'da içinde olunan günün menüsü hakkında **otomatik mail alırsınız**
